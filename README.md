@@ -6,6 +6,5 @@
 
 - **Real-Time Weather Data**: Fetches live weather data using an integrated weather API.
 - **Current Conditions**: Displays temperature, humidity, wind speed, and other essential weather details.
-- **Hourly and Daily Forecasts**: Provides detailed weather forecasts for the next 24 hours and up to 7 days ahead.
 - **Location-Based Updates**: Automatically detects user location or allows manual input for weather updates.
 - **User-Friendly Interface**: Clean and intuitive design for seamless user experience.
